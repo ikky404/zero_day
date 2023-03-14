@@ -6,8 +6,8 @@ __Resources__
 
 Read or watch:    
    
-[Virtual Machine] (https://en.wikipedia.org/wiki/Virtual_machine)    
-[man uname] (https://linux.die.net/man/1/uname)    
+[Virtual Machine](https://en.wikipedia.org/wiki/Virtual_machine)    
+[man uname](https://linux.die.net/man/1/uname)    
      
 __Requirements__ 
    
